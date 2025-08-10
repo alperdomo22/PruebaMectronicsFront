@@ -55,7 +55,7 @@ export const ChangePassword = () => {
                                         <Typography
                                             variant='h6'
                                         >
-                                            LOG IN
+                                            CAMBIO DE CONTRASEÑA
                                         </Typography>
                                         <TextField
                                             placeholder='Correo'
